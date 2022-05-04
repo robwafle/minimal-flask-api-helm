@@ -13,8 +13,8 @@ minimal-flask-api-helm` to see the charts.
 
 To install the minimal-flask-api-helm chart:
 
-    helm install my-minimal-flask-api-helm minimal-flask-api-helm/minimal-flask-api-helm
+    helm install my-minimal-flask-api minimal-flask-api-helm/minimal-flask-api
 
 To uninstall the chart:
 
-    helm delete my-minimal-flask-api-helm
+    helm delete my-minimal-flask-api
