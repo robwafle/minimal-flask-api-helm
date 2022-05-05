@@ -3,6 +3,16 @@ entries:
   minimal-flask-api:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-05-05T00:28:10.409641834Z"
+    description: A Helm chart for Kubernetes
+    digest: 300808230faa5847798fb8606f1cf85851532e5752b6a2289ba2db9dad963854
+    name: minimal-flask-api
+    type: application
+    urls:
+    - https://github.com/robwafle/minimal-flask-api-helm/releases/download/minimal-flask-api-0.1.1/minimal-flask-api-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-05-04T23:46:01.197132097Z"
     description: A Helm chart for Kubernetes
     digest: 117ffd58dfd292193f63764716f4283b2931ee84775e207c5411d08d6d714a25
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/robwafle/minimal-flask-api-helm/releases/download/minimal-flask-api-0.1.0/minimal-flask-api-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-04T23:46:01.197145097Z"
+generated: "2022-05-05T00:28:10.409653935Z"
