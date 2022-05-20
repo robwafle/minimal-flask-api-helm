@@ -64,6 +64,16 @@ entries:
   minimal-flask-api-helm:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-05-20T17:57:13.779998262Z"
+    description: trying to earn favor with the bossman by using python
+    digest: 86b0f7b78a92f2f3fbf0e9ec310e61b1af5b8a804a62a2a9323e5c0ddbae2db6
+    name: minimal-flask-api-helm
+    type: application
+    urls:
+    - https://github.com/robwafle/minimal-flask-api-helm/releases/download/minimal-flask-api-helm-0.1.6/minimal-flask-api-helm-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-05-20T17:47:20.215482733Z"
     description: trying to earn favor with the bossman by using python
     digest: fba04b6c5dfcab890578bd1cbb31be747325103a25487b6aee194b93383a9f07
@@ -72,4 +82,4 @@ entries:
     urls:
     - https://github.com/robwafle/minimal-flask-api-helm/releases/download/minimal-flask-api-helm-0.1.5/minimal-flask-api-helm-0.1.5.tgz
     version: 0.1.5
-generated: "2022-05-20T17:47:20.215668536Z"
+generated: "2022-05-20T17:57:13.780016563Z"
